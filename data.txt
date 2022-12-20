@@ -6,7 +6,7 @@ Yes, but what about taking your content with you too?
 ---2022-11-30T18:48:19Z
 “Plain-text format can be parsed or deserialized ‘by eye’” YES! https://wiki.c2.com/?PowerOfPlainText
 ---2022-11-30T17:34:29Z
-re: http://localhost:8000/#20221017111256
+re: /#20221017111256
 I did something like this for the https://tech.sagesure.com website when I built it. ASCII art generators are fun! https://cdn.jim-nielsen.com/logs/sagesure-ascii-art.png
 ---2022-11-30T17:34:19Z
 Still love when web teams put little easter eggs in the devtools, like this logo for @medium.com in the console 
