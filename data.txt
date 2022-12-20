@@ -9,6 +9,7 @@ Yes, but what about taking your content with you too?
 re: /#20221017111256
 I did something like this for the https://tech.sagesure.com website when I built it. ASCII art generators are fun! https://cdn.jim-nielsen.com/logs/sagesure-ascii-art.png
 ---2022-11-30T17:34:19Z
-Still love when web teams put little easter eggs in the devtools, like this logo for @medium.com in the console 
+Still love when web teams put little easter eggs in the devtools, like this logo for @medium.com in the console
+https://cdn.jim-nielsen.com/microblog/2022-12-20T14-57-36Z.png
 ---2022-11-29T17:12:56Z
 Trying this out.
