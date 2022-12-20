@@ -1,3 +1,5 @@
+---2022-12-20T14:31:35Z
+“If you leave a Mastodon server, you can take both your followers and the people you follow with you.”
 ---2022-12-20T05:45:52Z
 I want to type a quick tweet here and let’s see if it works from my deploy url…moment of truth…
 ---2022-12-20T05:35:23Z
