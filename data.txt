@@ -1,7 +1,6 @@
 ---2022-12-20T16:02:49Z
 “If you leave a Mastodon server, you can take both your followers and the people you follow with you.” - https://pluralistic.net/2022/12/19/better-failure/#let-my-tweeters-go
 
-
 Yes, but what about taking your content with you too?
 ---2022-11-30T18:48:19Z
 “Plain-text format can be parsed or deserialized ‘by eye’” YES! https://wiki.c2.com/?PowerOfPlainText
