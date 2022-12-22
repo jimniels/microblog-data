@@ -1,1 +1,28 @@
-{"version":"https://jsonfeed.org/version/1","title":"Jim’s Microblog","home_page_url":"https://microblog.jim-nielsen.com/","feed_url":"https://microblog.jim-nielsen.com/feed.json","items":[{"id":"2022-12-21T22:21:50Z","content_text":"Hello world"}]}
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Jim’s Microblog",
+  "home_page_url": "https://microblog.jim-nielsen.com/",
+  "feed_url": "https://microblog.jim-nielsen.com/feed.json",
+  "items": [
+    {
+      "date_published": "2022-12-20T16:02:49Z",
+      "content_text": "“If you leave a Mastodon server, you can take both your followers and the people you follow with you.” - https://pluralistic.net/2022/12/19/better-failure/#let-my-tweeters-go\r\n\r\nYes, but what about taking your content with you too?"
+    },
+    {
+      "date_published": "2022-11-30T18:48:19Z",
+      "content_text": "“Plain-text format can be parsed or deserialized ‘by eye’” YES! https://wiki.c2.com/?PowerOfPlainText"
+    },
+    {
+      "date_published": "2022-11-30T17:34:29Z",
+      "content_text": "re: /#20221017111256\r\nI did something like this for the https://tech.sagesure.com website when I built it. ASCII art generators are fun!\r\nhttps://cdn.jim-nielsen.com/microblog/2022-12-20T14-58-24Z.png"
+    },
+    {
+      "date_published": "2022-11-30T17:34:19Z",
+      "content_text": "Still love when web teams put little easter eggs in the devtools, like this logo for @medium.com in the console\r\nhttps://cdn.jim-nielsen.com/microblog/2022-12-20T14-57-36Z.png"
+    },
+    {
+      "date_published": "2022-11-29T17:12:56Z",
+      "content_text": "Hello world!"
+    }
+  ]
+}
