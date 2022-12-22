@@ -5,6 +5,10 @@
   "feed_url": "https://microblog.jim-nielsen.com/feed.json",
   "items": [
     {
+      "date_published": "2022-12-22T03:30:42Z",
+      "content_text": "I want another micropost here\r\n\r\nwith multiple lines\r\n\r\nand more stuff\r\n\r\nWhat about adding images?"
+    },
+    {
       "date_published": "2022-12-22T03:23:19Z",
       "content_text": "While I’ve come within proximity of the issue, it’s finally time I dive into the CRLF line endings problem. This article is a good deep dive:\r\n\r\nhttps://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/"
     },
