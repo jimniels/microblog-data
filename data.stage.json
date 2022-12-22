@@ -5,6 +5,10 @@
   "feed_url": "https://microblog.jim-nielsen.com/feed.json",
   "items": [
     {
+      "date_published": "2022-12-22T03:31:03Z",
+      "content_text": "Oh and what about @daverupert.com"
+    },
+    {
       "date_published": "2022-12-22T03:30:42Z",
       "content_text": "I want another micropost here\r\n\r\nwith multiple lines\r\n\r\nand more stuff\r\n\r\nWhat about adding images?"
     },
