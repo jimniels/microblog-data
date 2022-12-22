@@ -5,6 +5,10 @@
   "feed_url": "https://microblog.jim-nielsen.com/feed.json",
   "items": [
     {
+      "date_published": "2022-12-22T03:23:04Z",
+      "content_text": "While I’ve come within proximity of the issue, it’s finally time I dive into the CRLF line endings problem. This article is a good deep dive:"
+    },
+    {
       "date_published": "2022-12-22T03:18:47Z",
       "content_text": "going to type something here\r\n\r\nand then push enter."
     },
